@@ -1,7 +1,3 @@
-# a tool convert markdown to html when runing build task in terminal watching markdown file saving changes.
-# a gulpfile.js script and task configurtion.
-# put *.md file under root floder.
-
 <div id="top"></div>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
