@@ -22,7 +22,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/yuzukicat/markdown-to-html">
-    <img src="./line_cat_ear_girl_necoco_agadswgaaucjggc.png" alt="Logo" width="80" height="80">
+    <img src="images/line_cat_ear_girl_necoco_agadswgaaucjggc.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Markdown To HTML</h3>
