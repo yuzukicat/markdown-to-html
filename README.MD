@@ -57,5 +57,5 @@ Built With gulpfile.js
 <!-- GETTING STARTED -->
 ## Getting Started
 Put *.md file under markdown-to-html root floder.
-Run build task in terminal.
-Works well with HTML Preview and Wordpress. Need to add blank column and space to tables to fix style. Need to config CORS if you want WordPress under another domain to use images within your blog.
+Run build task in terminal and keep it running.
+Works well with vscode plugin HTML Preview and WordPress blog system. Need to add blank column and space to tables to fix style. Need to config CORS if you want WordPress under another domain to use images within your blog.
