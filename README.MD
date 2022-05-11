@@ -7,8 +7,6 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -27,7 +25,7 @@
 
 <h3 align="center">Markdown To HTML</h3>
   <p align="center">
-    A tool convert markdown to html when runing build task in terminal watching markdown file saving changes.
+    A tool convert markdown to html keep run build task running in terminal and watching markdown file saving changes.
     <br />
     <a href="https://github.com/yuzukicat/markdown-to-html"><strong>Explore the docs »</strong></a>
     <br />
@@ -58,5 +56,6 @@ Built With gulpfile.js
 
 <!-- GETTING STARTED -->
 ## Getting Started
-Put *.md file under root floder.
-Runing build task in terminal.
+Put *.md file under markdown-to-html root floder.
+Run build task in terminal.
+Works well with HTML Preview and Wordpress. Need to add blank column and space to tables to fix style. Need to config CORS if you want WordPress under another domain to use images within your blog.
